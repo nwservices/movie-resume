@@ -1,4 +1,3 @@
-// $(function()){
 
 	$('#butt').on("click",function(){
 		$('#container',).toggleClass('hovered'),
@@ -8,5 +7,5 @@
 		}, 1150);
 	});
 
-// }
+
 
