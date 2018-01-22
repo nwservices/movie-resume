@@ -2,4 +2,4 @@
 
   > simple styling page to resume movies
 
-Visit that page : https://neworldwebsites.github.io/movie-resume/index.html
+[Visit that page HERE](https://neworldwebsites.github.io/movie-resume/index.html)
